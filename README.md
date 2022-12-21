@@ -1,5 +1,7 @@
 # bowling_v2
 볼링 프로젝트 v2
+
+
 get_blue : TV만 잘라내기 위해 필요한 함수
 
 
