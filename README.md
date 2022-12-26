@@ -8,4 +8,4 @@ get_blue : TV만 잘라내기 위해 필요한 함수
 search : 경로내의 파일을 읽어주는 함수
 
 
-get_bowling_board -> cut_score -> get_each_number
+get_bowling_board -> cut_score -> get_each_number -> make_binary_images -> Final
